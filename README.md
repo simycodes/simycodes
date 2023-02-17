@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simon Mule from Zambia!
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning Advanced React, Node and Express.JS
-- 💞️ I’m looking to collaborate on React, Node and PHP projects.
+- 🌱 I’m currently learning Advanced Angular, React, Node and Express.JS
+- 💞️ I’m looking to collaborate on Angular, React, Node and PHP projects.
 - 📫 You can reach me via simycodes@gmail.com
 
 <!---
