@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simon Mule from Zambia!
+- 👋 Hi, I’m Simon Mule from Zambia! I'm a software development student at BYU-Idaho.
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning Advanced React, Node, Express.JS and Laravel.
 - 💞️ I’m looking to collaborate on React, Node, MERN and PHP/Laravel projects.
