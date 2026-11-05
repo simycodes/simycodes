@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Simon Mule from Zambia! I'm an online software development student at BYU-Idaho.
+- 👋 Hi, I’m Simon Mule from Zambia! I'm a Junior Web Developer and an Author.
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning Advanced React, Node, Express.JS and Laravel.
-- 💞️ I’m looking to collaborate on React, Node, MERN and PHP/Laravel projects.
+- 🌱 I’m currently learning Advanced React, Node, and Express.JS.
+- 💞️ I’m looking to collaborate on MERN projects.
 - 📫 You can reach me via simycodes@gmail.com
 
 <!---
